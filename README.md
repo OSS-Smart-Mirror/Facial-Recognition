@@ -4,4 +4,5 @@ Uses OpenCV to read video stream from a USB Webcam, sends every recorded frame t
 
 Requires Python3, OpenCV-Python module
 
-`python3 detect_face.py`
+`pip3 install -r requirements.txt # Install all required Python3 Libraries`
+`python3 detect_face.py # Run the program`
